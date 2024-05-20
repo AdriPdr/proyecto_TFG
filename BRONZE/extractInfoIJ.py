@@ -228,4 +228,4 @@ for url in links:
     indice += 1 
     df_data = df_data._append(url_info_dict, ignore_index = True)
 browser.quit() # Cerrar el navegador
-df_data.to_csv("C:/Users/apedr/OneDrive/Escritorio/TFG/BRONZE/infoInfojobs.csv")
+df_data.to_csv("C:/Users/apedr/OneDrive/Escritorio/proyecto_TFG/BRONZE/infoInfojobs.csv")

@@ -45,7 +45,7 @@ if os.path.exists(file_path):
 
 
     #stg_compania
-    ij_stg_compania_df = info_infoJobs_df[["oferta_id", "compania_nombre"]]
+    ij_stg_compania_df = info_infoJobs_df[["compania_nombre"]]
     stg = "/ij_L001_stg_compania.csv"
     find_directory(ij_stg_compania_df, directory, stg)
 

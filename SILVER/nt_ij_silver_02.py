@@ -8,11 +8,11 @@ def find_directory(stg_df, directory, stg):
         os.makedirs(directory)
     stg_df.to_csv(directory+stg, index=False)
     
-file_path = "C:/Users/apedr/OneDrive/Escritorio/proyecto_TFG/SILVER/L000/ij_L000_wide_table_ofertas.csv"
+file_path = "./SILVER/L000/ij_L000_wide_table_ofertas.csv"
 
 if os.path.exists(file_path):
     info_infoJobs_df =pd.read_csv(file_path)
-    directory = "C:/Users/apedr/OneDrive/Escritorio/proyecto_TFG/SILVER/L001"
+    directory = "./SILVER/L001"
 
     #stg_categoria
     ij_stg_categoria_df = info_infoJobs_df[["categoria_nombre", "subcategoria_nombre"]] 

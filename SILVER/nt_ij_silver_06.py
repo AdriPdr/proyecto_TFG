@@ -9,10 +9,10 @@ def find_directory(stg_df, directory, stg):
     stg_df.to_csv(directory+stg, index=False)
 
 
-directory_read_L002 = "C:/Users/apedr/OneDrive/Escritorio/proyecto_TFG/SILVER/L002/ij_L002_"
-directory_read_L003 = "C:/Users/apedr/OneDrive/Escritorio/proyecto_TFG/SILVER/L003/ij_L003_"
-directory_read_L004 = "C:/Users/apedr/OneDrive/Escritorio/proyecto_TFG/SILVER/L004/ij_L004_"
-directory_load = "C:/Users/apedr/OneDrive/Escritorio/proyecto_TFG/GOLD/"
+directory_read_L002 = "./SILVER/L002/ij_L002_"
+directory_read_L003 = "./SILVER/L003/ij_L003_"
+directory_read_L004 = "./SILVER/L004/ij_L004_"
+directory_load = "./GOLD/"
 
 #dim_categoria
 if (os.path.exists(directory_read_L002+"stg_categoria.csv")): 

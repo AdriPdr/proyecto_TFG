@@ -7,6 +7,7 @@ import re
 import pandas as pd
 import datetime
 import hashlib
+import os
 
 def obtener_informacion(url_info_dict, url_infojobs, browser):
     browser.get(url_infojobs)
@@ -213,19 +214,24 @@ df_data = pd.DataFrame(columns=["oferta_id", "titulo", "postulacion", "descripci
                                 "estudios_nombre", "habilidades", "compania", "creationDate"])
 
 contador = 0
-indice = 0
-time.sleep(5)
+exist = os.path.exists("./BRONZE/infoInfojobs.csv")
+if not exist:
+    indice = 0
+else:
+    info_infoJobs_df = pd.read_csv("./BRONZE/infoInfojobs.csv")   
+    indice = info_infoJobs_df["oferta_id"].nunique()
+time.sleep(10)
 
 for url in links:
     print(url)
     url_info_dict = obtener_informacion(url_info_dict, url, browser) # Obtener información de las URLs de las ofertas
-    indice = str(indice).encode()
-    url_info_dict['oferta_id'] = hashlib.md5(indice).hexdigest()
+    indice_bytes = str(indice).encode()
+    url_info_dict['oferta_id'] = hashlib.md5(indice_bytes).hexdigest()
     date = datetime.datetime.now()
     date = date.strftime("%Y-%m-%dT%H:%M:%S.000+0000")
-    url_info_dict['creationDate'] = date
-    indice = int(indice)
+    url_info_dict['creationDate'] = date 
     indice += 1 
     df_data = df_data._append(url_info_dict, ignore_index = True)
+    
 browser.quit() # Cerrar el navegador
-df_data.to_csv("C:/Users/apedr/OneDrive/Escritorio/proyecto_TFG/BRONZE/infoInfojobs.csv")
+df_data.to_csv("./BRONZE/infoInfojobs.csv", mode='a', index=False, header=not exist)#si es la primera vez introduce la cabecera

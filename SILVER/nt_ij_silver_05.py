@@ -8,10 +8,10 @@ def find_directory(stg_df, directory, stg):
         os.makedirs(directory)
     stg_df.to_csv(directory+stg, index=False)
 
-directory_fact = "C:/Users/apedr/OneDrive/Escritorio/proyecto_TFG/SILVER/L000/ij_L000_wide_table_ofertas.csv"
-directory_stg = "C:/Users/apedr/OneDrive/Escritorio/proyecto_TFG/SILVER/L002/ij_L002_"
-directory_stg2 = "C:/Users/apedr/OneDrive/Escritorio/proyecto_TFG/SILVER/L003/ij_L003_"
-directory = "C:/Users/apedr/OneDrive/Escritorio/proyecto_TFG/SILVER/L004"
+directory_fact = "./SILVER/L000/ij_L000_wide_table_ofertas.csv"
+directory_stg = "./SILVER/L002/ij_L002_"
+directory_stg2 = "./SILVER/L003/ij_L003_"
+directory = "./SILVER/L004"
 
 if(os.path.exists(directory_fact)):
     ft_ij_df = pd.read_csv(directory_fact)

@@ -10,8 +10,8 @@ def find_directory(stg_df, directory02, stg):
         os.makedirs(directory02)
     stg_df.to_csv(directory02+stg, index=False)
 
-directory01 = "C:/Users/apedr/OneDrive/Escritorio/proyecto_TFG/SILVER/L001/ij_L001_"
-directory02 = "C:/Users/apedr/OneDrive/Escritorio/proyecto_TFG/SILVER/L002"
+directory01 = "./SILVER/L001/ij_L001_"
+directory02 = "./SILVER/L002"
 
 #stg_categoria
 file_categoria = "stg_categoria.csv"

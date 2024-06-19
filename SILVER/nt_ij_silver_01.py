@@ -4,12 +4,12 @@ import pandas as pd
 import os
 
 
-file_path = "C:/Users/apedr/OneDrive/Escritorio/proyecto_TFG/BRONZE/infoInfojobs.csv"
+file_path = "./BRONZE/infoInfojobs.csv"
 
 if os.path.exists(file_path): 
     info_infoJobs_df = pd.read_csv(file_path) 
 
-    directory = "C:/Users/apedr/OneDrive/Escritorio/proyecto_TFG/SILVER/L000"
+    directory = "./SILVER/L000"
 
     info_infoJobs_df["aplicaciones"] = info_infoJobs_df["aplicaciones"].astype("Int64")
     info_infoJobs_df["salario_maximo"] = info_infoJobs_df["salario_maximo"].astype(float)
@@ -21,4 +21,5 @@ if os.path.exists(file_path):
 
 
     info_infoJobs_df.to_csv(directory+"/ij_L000_wide_table_ofertas.csv")
+
 

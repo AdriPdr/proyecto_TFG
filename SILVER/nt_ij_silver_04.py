@@ -9,8 +9,8 @@ def find_directory(stg_df, directory03, stg):
         os.makedirs(directory03)
     stg_df.to_csv(directory03+stg, index=False)
 
-directory02 = "C:/Users/apedr/OneDrive/Escritorio/proyecto_TFG/SILVER/L002/ij_L002_"
-directory03 = "C:/Users/apedr/OneDrive/Escritorio/proyecto_TFG/SILVER/L003"
+directory02 = "./SILVER/L002/ij_L002_"
+directory03 = "./SILVER/L003"
 
 
 #stg_idioma

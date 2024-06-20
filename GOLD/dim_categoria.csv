@@ -1,0 +1,137 @@
+categoria_nombre,subcategoria_nombre,categoria_key
+Administración de empresas,Administración,11807bb422ffc64a3a7801ce32272d8f
+"Profesiones, artes y oficios",Electricidad,85ee1b4fe42805fd3693cdb948af4c0e
+Administración de empresas,Consultoría,c200ef047b43fb86641c3141178dcad0
+Inmobiliario y construcción,Administración inmobiliaria,79888b96008c2271dcfe56397fc931ab
+Comercial y ventas,Agente comercial,4cfdc3d588a917ed0e9b545f6e2c1fb3
+Turismo y restauración,Restauración,57e94cfcf3002f0f851fd66365fedb15
+Atención a clientes,Atención al cliente,3a401347775be0e5c0ce9c994b461a0b
+Sanidad y salud,Medicina especializada,7533871f1d52b159f98713cc4f6c56d0
+"Compras, logística y almacén",Compras y aprovisionamiento,9434f2fcfe6a6e73b2d2b3b2ca63e182
+Informática y telecomunicaciones,Gestión de proyectos,f37fdd6134dc9193484db84241e07c00
+"Profesiones, artes y oficios",Transporte,b0607da3e5c47318ae747991e9bd244c
+Comercial y ventas,Comercial,7dcb47663a438b953b600bbfd815a29e
+"Compras, logística y almacén",Distribución y logística,880494dad6879268b46010c8889036f7
+Administración de empresas,"Facturación, cobros y pagos",5c2980c6aa17ad82d43cc43979b326f3
+Sanidad y salud,Farmacia,1f5fe4db9e8c61017ccac2d9167a8af6
+Turismo y restauración,Turismo,4a0fa74a3069b4bcda412ef1c883ae83
+Otros,Sin especificar,376243dd2b733dbf34c709c504458eeb
+Ingenieros y técnicos,Electrónica y automática industrial,ee150114b665cd9c0810a069b8b389f0
+Ingenieros y técnicos,Aeronáutico,650bdea4c6e9b724160b6615fdec98a8
+Ventas al detalle,Venta al detalle,00cf7938c57f64c4d34d1e94dc97e03f
+Recursos humanos,Prevención de riesgos,f80b20a9e8d8b51e650e5f48f6f21a9d
+Administración de empresas,Organización de la empresa,b1f4b9f8dadd4aa860cdaa9ed8d329b7
+Ingenieros y técnicos,Otras ingenierías,ab85af8b4c56e0b9e4059d70ff91873c
+Informática y telecomunicaciones,Programación,ff889f84e1e1c7a96e889a891192c841
+"Compras, logística y almacén",Almacén,4ee8252d2238c918c748faa5a3fab372
+Ingenieros y técnicos,Industrial,b9f5e17b18396fab5a1b4f0f3f957e0e
+Sanidad y salud,Otras profesiones sanitarias,a77d70613151d13b6d2eb0f2c7f68239
+Marketing y comunicación,Marketing,857e90d209f9e89d9e226ccf353cdde0
+Ingenieros y técnicos,Electrónica,6ebb9d8575d9a2f45a5ea96147a9ba3d
+"Profesiones, artes y oficios",Confección,fbdb276fd60d5853c0e0b7cabb55c69c
+Administración de empresas,Finanzas y contabilidad,8a789e85563a868906f410bde0cb9961
+Informática y telecomunicaciones,Telecomunicaciones,955b69a703fcbaad8296db52b53eeef7
+Comercial y ventas,Televenta y marketing telefónico,ad7cedce517c47482c9634f8eacd6d08
+Legal,Derecho y empresa,3ac44bf15515be4b2e54ad5f2e748dfe
+Informática y telecomunicaciones,Calidad,b3b2d5c1d82591c36ba65c6af7612d34
+Turismo y restauración,Hostelería,0e87745131adf72e9ddd453648a080da
+Sanidad y salud,Odontología,35fd78ad365566ef09ccd3b068803d0d
+Comercial y ventas,Comercio exterior,faf9a7f36d2c33a3685aa161225d27fa
+Ingenieros y técnicos,Energias Renovables,c8818442db0be7b405812e849ad262fb
+Marketing y comunicación,Investigación de mercados,b50935e5d8903e8c4088a50c3b923912
+Recursos humanos,Relaciones laborales,f57f55d751dfedf5a0d6015d226530e8
+Recursos humanos,Selección de personal,82d9bc2afa28cafeda965a00ec1ed67f
+"Calidad, producción e I+D",Gestión de proyectos,554fc3924a9679fab9482bd667d803cb
+Informática y telecomunicaciones,Helpdesk,36158257c892457521b0e12b58eb78e3
+Educación y formación,Enseñanza,5cfdb3baa2ec544fb571520494c5ab7b
+Sector Farmacéutico,"Calidad, producción e I+D",748f0286fd8eeef52fcc78c20a5d5bdc
+"Profesiones, artes y oficios",Limpieza,41c178bf30d3beeee156bdafff35d2af
+"Calidad, producción e I+D",Operaciones,5397e7ed0065d79026555b602fcffd3a
+Informática y telecomunicaciones,Sistemas,387317da9a00a3b9e93fc29d94e7421a
+"Profesiones, artes y oficios",Otros oficios,ca40fdae8bbf5ef7528652a3ee965d82
+Inmobiliario y construcción,Oficios de la construcción,8de3da4f126cdabd7a33e78cf195860e
+Informática y telecomunicaciones,Análisis,73ced3b0e950596ba25fcf1886cd972d
+"Calidad, producción e I+D",Gestión de la calidad,e29b7265cb2a9e9ec576a83c55b5f67a
+"Profesiones, artes y oficios",Estética y cosmética,ae3f67bbfd9a3b5a0503f7d2ea7d66c2
+Inmobiliario y construcción,Dirección y gestión de obras,bcd4d49432f5d1fcd07b12f3eb339d9a
+Informática y telecomunicaciones,"Hardware, redes y seguridad",86fddf4762fee48fe16b505d37ef45f6
+"Calidad, producción e I+D",Mantenimiento,c5a8ea66d8ef658d9758c7e358f86f8b
+Inmobiliario y construcción,Interiorismo,7b1b159c045f08c23c603d23f1ccdd60
+Finanzas y banca,Banca empresarial,d1981e6031e6d165603a316d2203a04b
+Ingenieros y técnicos,Organización industrial,0e7188884a4b165822fdc30b9c564299
+Administración de empresas,Auditoría,3b2169cfaf3ecc9fa6f2cfcc2e7794aa
+Ingenieros y técnicos,Químico,08d68868c41ed0e6d8ec77cdd854f669
+Administración de empresas,Negociación y contratación,2e7ad2c1c78e4955004643ede1865cdf
+Finanzas y banca,Productos y servicios bancarios,d1bf2527280167b6bc5c439a84771aae
+Inmobiliario y construcción,Ingeniería civil y obras públicas,877a9c57682b1f06a7cd5c03761a82f1
+Administración de empresas,Recepción,6c6805ca369bf2d61e18b39d73ceca88
+Finanzas y banca,Banca privada,6156ce3a959f6063c00da1c2ac85c7f4
+Recursos humanos,Formación,8a38948ebf4ee577330e07dbf7592ede
+Informática y telecomunicaciones,"ERP, CRM, Business Intelligence",4530359bb19a2e5ac2ecf47b998d397a
+"Profesiones, artes y oficios",Carpintería,f10aa55482caf8a904897ed3ba27e256
+"Profesiones, artes y oficios",Automoción,8845f5c5987bc38441e860fef90ed5a8
+Informática y telecomunicaciones,Arquitectura,352c8a14e770a5b22476991c7eedf41f
+Comercial y ventas,Gran cuenta,2b06b45f66832db377d87911946a5abb
+"Profesiones, artes y oficios",Fontanería,cf5ad47749455e98e2d6858a2d9953b6
+Sanidad y salud,Enfermería,e363102e641c032f0da79c5650d5c83e
+Finanzas y banca,Seguros,dfe74a5bacd9259f56ae4da8327ee2c6
+Informática y telecomunicaciones,Administración de bases de datos,493bee876eb297148fd79d2052fe1045
+Sanidad y salud,Medicina general,d9274c08f8171111b8df440a3612d380
+Finanzas y banca,"Bolsa, valores e inversión",b8dfe5d1b3a4caa493c672a52c8c178e
+Inmobiliario y construcción,Ingeniería de materiales,1c1138edc9e80b52e4573239c2946491
+Educación y formación,Educación social,299f233442b4468b8714d19dbd973539
+"Profesiones, artes y oficios",Consumo y alimentación,1bd2f1b1f4e149e2e98e07bf182a25b2
+Educación y formación,Educación especial,28a9c48c45f882e00c4b88df0f6360b2
+"Calidad, producción e I+D",Investigación y desarrollo,90b95f118b6276962823fa20dae81f6e
+Diseño y artes gráficas,Diseño gráfico,f0999d52b8822eff473941a533e513f6
+Marketing y comunicación,Comunicación corporativa,2809a84bd45e47e8fd6d2a22d3dc140c
+Atención a clientes,Promoción y ferias,566832f3b7ce3b42a40aa5858d81f02e
+Sanidad y salud,Veterinaria,988c20764e6423da0de7b48de4509cd0
+"Profesiones, artes y oficios",Fotografía ,560bf3bec34c251f559a615a659f5add
+Ingenieros y técnicos,Minas,f4ced6f8425dc6d3ef1b3ecbbcccaee8
+"Profesiones, artes y oficios",Agricultura y jardinería,24769c033328c8ea594a71dfdf76dedb
+Diseño y artes gráficas,Creación audiovisual,c72025bda99912fc1b5b003d55db99a7
+Ingenieros y técnicos,Agrónomo y montes,b36c626eef758b61253d85a79e5aafd1
+Diseño y artes gráficas,Editorial e imprenta,657a75b5f876bfae542461a70bfc5a29
+Marketing y comunicación,RRPP y eventos,6130970d5298f9caa72c6623d58f6aaf
+Administración Pública,Administración local,0cf29d2ac63b445ce15f6940992b6c6e
+Ingenieros y técnicos,"Geología, geodesia y cartografía",0721c28c0557e0eece40b0d9b6b24952
+Inmobiliario y construcción,Arquitectura y proyección,983da8036cece5de2c85d4ef7f25361b
+Administración de empresas,Secretariado,ae3a1631ad4890a296472d6957c409b7
+Legal,"Derecho civil, penal y constitucional",66486df8e50345b6b0f4b14299ded378
+Marketing y comunicación,Periodismo y edición,3800ce210663b098674fb4b6b0fdbc6c
+Legal,Notaría y registros,c167cbb670da9245aacd8963843d11ea
+Administración de empresas,Dirección y gerencia,9fa666b98f6c16753e6f2b0a61a211b6
+Sanidad y salud,Psicología,8bf59d7df8c145d0444dbb868c174709
+"Calidad, producción e I+D",Certificación de calidad,7fde7b23245dd830046d29cb042477e5
+"Calidad, producción e I+D",Medio ambiente,895a75cbf31ff93e51cc4cc28d8e7644
+Marketing y comunicación,Desarrollo de marca y producto,e3dfe08e234445b9d6971840a8ee899a
+Legal,Derecho procesal,aa40832c6a67bc50fefd05291f401aeb
+Administración Pública,Administración autonómica,eae8258da1ebc8da652b4c6bf9d5c26f
+"Profesiones, artes y oficios",Seguridad y vigilancia,8f5b5665e9f500416a26e57233a7fb81
+Ingenieros y técnicos,Naval y oceánico,14ec66373e9534f026bc466c499d13e2
+Diseño y artes gráficas,Diseño industrial,df34a9fbb3181e07ca37732dd56184c3
+Administración Pública,Empresas públicas,e7a87435405397200909fe1705fd2a43
+Sector Farmacéutico,Comercial y ventas,e70925fc0f49e8f9e46d8f5565dbd073
+Marketing y comunicación,Producción,e31d1618b12b839d2b30f1b90a4084d9
+Administración de empresas,Operaciones societarias,5a1a7b28ea97b201fc4aebcb863b83ab
+"Calidad, producción e I+D",Metrología,7ff4e5f9fc348314289ce0c4a2d0621a
+Ingenieros y técnicos,Sistemas de defensa,275bb3613f8e09041c924a3d7228ae11
+Marketing y comunicación,Técnicas audiovisuales,6cb40e7f75b57fd5527a55529d5c5b5b
+Diseño y artes gráficas,Moda y confección,5040213a082070449eb4399301c6c8fc
+Legal,Derecho internacional,6a42bf0f840aff15b7dc3dae6851d074
+Diseño y artes gráficas,Diseño web,b942ee9da8eb18e1bdc4b110854e5521
+Educación y formación,Gestión de centros educativos,9319059bafa202946fd3e7ae828e82e5
+Sector Farmacéutico,Acceso al mercado y relaciones institucionales,033ec873dda55300876057e9999bc2f0
+Sector Farmacéutico,Asuntos regulatorios,c1c91c067318d5438188c5fabec47f85
+"Profesiones, artes y oficios",Traducción e interpretación,2eba7019c845093dcbba8c8a9a7f1a73
+Marketing y comunicación,Publicidad,d257b5ffbce1f2f31cdff4bccb16c9ff
+Sector Farmacéutico,Marketing y comunicación,5dc6b7363694608871fb961f28c91b0f
+Sector Farmacéutico,Investigación clínica y asuntos médicos,37786962b76e2c0f6b5cbce62504bc19
+Educación y formación,Pedagogía,09e28eb572377d275b7e6bfd8606b004
+Sanidad y salud,Medicinas alternativas,0b76dc7b84ba4e4c9cdcea534a5e62c1
+Administración Pública,Administración del Estado,58ff9085c04b755e136a3f3b2fa5fbc6
+Administración Pública,Administraciones europeas,71dfbedf3acbf2c63c0dc4115a503d38
+"Profesiones, artes y oficios",Artes plásticas,4ac63ee5266af8db1d6c3c98b0b87457
+"Profesiones, artes y oficios",Artesanía,0fac72c5ba25f1ce67440d83cecce136
+Educación y formación,Puericultura,44472fb6b5be4fc2c0d44a359ea6e8c7

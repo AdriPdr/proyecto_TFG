@@ -1,0 +1,2 @@
+BRONZE/infoInfoJobs.csv filter=lfs diff=lfs merge=lfs -text
+SILVER/L000/ij_L000_wide_table_ofertas.csv filter=lfs diff=lfs merge=lfs -text
